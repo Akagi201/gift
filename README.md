@@ -2,9 +2,12 @@
 
 [![Rust Check & Build](https://github.com/Akagi201/gift/actions/workflows/ci.yml/badge.svg)](https://github.com/Akagi201/gift/actions/workflows/ci.yml)
 
-Github + NFT = Gift
+Gift = Github + NFT
 
-We send every excellent Github user a NFT gift.
+我们知道区块链上用户要对应现实中全球一个唯一身份是很难的，但是如果限制在一个特定领域的用户，那么往往可以实现。所以，考虑通过 Github 以及其代码贡献量来给用户分发 NFT 的方式来实现链上与链下用户的对应。
+
+优秀用户可以免费领取一个 Mint NFT.
+普通用户需要 deposit 一定 NEAR 来 Mint NFT.
 
 ## Design
 
