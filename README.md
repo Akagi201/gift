@@ -1,6 +1,10 @@
-# gift
+# Gift
 
-Github + NFT = gift
+[![Rust Check & Build](https://github.com/Akagi201/gift/actions/workflows/ci.yml/badge.svg)](https://github.com/Akagi201/gift/actions/workflows/ci.yml)
+
+Github + NFT = Gift
+
+We send every excellent Github user a NFT gift.
 
 ## Design
 
